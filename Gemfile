@@ -48,4 +48,5 @@ end
 gem 'cocoon'
 gem 'haml-rails'
 gem 'erb2haml'
+gem 'pry-rails'
 
